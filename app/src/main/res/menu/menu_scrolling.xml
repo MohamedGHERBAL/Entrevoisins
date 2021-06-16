@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/AppTheme.AppBarOverlay"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.neighbour_list.DetailNeighbourActivity">
+
+    <!--
+    // Add Action setting to the Toolbar in DetailNeighbourActivity
+        <item
+            android:id="@+id/action_settings"
+            android:orderInCategory="100"
+            app:showAsAction="never"
+            android:title="Modifier" />
+
+        android:title="@string/action_settings"
+
+    // Add button Info to the Toolbar in DetailNeighbourActivity
+        <item
+            android:id="@+id/action_info"
+            android:orderInCategory="200"
+            android:title="info"
+            app:showAsAction="ifRoom"
+            android:icon="@android:drawable/ic_dialog_info"/>
+    -->
+
+</menu>
